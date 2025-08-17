@@ -69,3 +69,5 @@ terraform apply -auto-approve
 4. Acesse no navegador:
 
 http://localhost
+
+OBS: Coloque as credenciais no arquivo .env para que o banco de dados funcione corretamente.
